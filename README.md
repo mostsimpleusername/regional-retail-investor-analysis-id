@@ -89,10 +89,12 @@ Dashboard features:
 
 ## 🛠 Tools Used
 
-- Python (pandas)
+- Python 
 - Google Sheets
+- Google Colab
 - Looker Studio
-- Excel / PDF extraction tools (for raw data)
+- Google Gemini AI
+- ChatGPT
 
 ---
 
